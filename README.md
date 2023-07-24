@@ -1,2 +1,5 @@
-# NFT-Whitelist
-NFT Whitelist 
+The prices of Non-Fungible Tokens (NFTs) tend to be at their lowest shortly after their initial launch, leading to intense competition among prospective buyers and causing transaction fees to skyrocket. In order to address these challenges and show appreciation to their loyal supporters, project developers implement a solution known as the "whitelist." By being added to the whitelist, dedicated backers gain early access to purchase the rare NFTs at their lower introductory prices, well before the tokens are made available to the general public.
+
+Essentially, your crypto wallet remains on the NFT whitelist until your designated time slot arrives. This approach serves to democratize the NFT market, ensuring that faithful supporters are given the opportunity to acquire these unique digital assets without having to endure the cut-throat competition and sudden spikes in gas fees that often occur after the public launch. By granting early access, developers aim to cultivate a more inclusive and fair environment for NFT enthusiasts, rewarding those who have shown unwavering support for the project.
+
+More info about creating a whitelist you can find on https://imintify.com/nft-whitelist/
